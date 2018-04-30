@@ -5,5 +5,5 @@ get output information and get input input.
 
 ## Run
 1. Type make into command-line/terminal in jumble.adb directory
-2. Type ./play to begin
+2. Type ./jumble to begin
 3. Type make clean to clean the files up.
